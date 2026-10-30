@@ -1,0 +1,60 @@
+topic,report_table,province,category,pct
+milk_use,Table 52,Kigali,Consumed by household,32.0
+milk_use,Table 52,Kigali,Sold,67.2
+milk_use,Table 52,Kigali,Given to others,0.8
+milk_use,Table 52,Kigali,Used in other form,0.0
+milk_use,Table 52,South,Consumed by household,56.6
+milk_use,Table 52,South,Sold,33.7
+milk_use,Table 52,South,Given to others,9.4
+milk_use,Table 52,South,Used in other form,0.3
+milk_use,Table 52,West,Consumed by household,52.3
+milk_use,Table 52,West,Sold,39.6
+milk_use,Table 52,West,Given to others,7.9
+milk_use,Table 52,West,Used in other form,0.2
+milk_use,Table 52,North,Consumed by household,40.0
+milk_use,Table 52,North,Sold,53.5
+milk_use,Table 52,North,Given to others,6.2
+milk_use,Table 52,North,Used in other form,0.2
+milk_use,Table 52,East,Consumed by household,53.5
+milk_use,Table 52,East,Sold,39.9
+milk_use,Table 52,East,Given to others,5.8
+milk_use,Table 52,East,Used in other form,0.8
+milk_use,Table 52,Rwanda,Consumed by household,51.0
+milk_use,Table 52,Rwanda,Sold,41.3
+milk_use,Table 52,Rwanda,Given to others,7.3
+milk_use,Table 52,Rwanda,Used in other form,0.4
+irrigation,Table 26,Kigali,Irrigated,6.0
+irrigation,Table 26,Kigali,Not irrigated: not needed,47.8
+irrigation,Table 26,Kigali,Not irrigated: cannot afford,10.0
+irrigation,Table 26,Kigali,Not irrigated: no water available,36.3
+irrigation,Table 26,South,Irrigated,7.1
+irrigation,Table 26,South,Not irrigated: not needed,73.5
+irrigation,Table 26,South,Not irrigated: cannot afford,4.8
+irrigation,Table 26,South,Not irrigated: no water available,14.6
+irrigation,Table 26,West,Irrigated,2.2
+irrigation,Table 26,West,Not irrigated: not needed,71.7
+irrigation,Table 26,West,Not irrigated: cannot afford,4.1
+irrigation,Table 26,West,Not irrigated: no water available,22.1
+irrigation,Table 26,North,Irrigated,3.0
+irrigation,Table 26,North,Not irrigated: not needed,71.4
+irrigation,Table 26,North,Not irrigated: cannot afford,4.2
+irrigation,Table 26,North,Not irrigated: no water available,21.4
+irrigation,Table 26,East,Irrigated,8.4
+irrigation,Table 26,East,Not irrigated: not needed,37.4
+irrigation,Table 26,East,Not irrigated: cannot afford,7.5
+irrigation,Table 26,East,Not irrigated: no water available,46.7
+irrigation,Table 26,Rwanda,Irrigated,5.6
+irrigation,Table 26,Rwanda,Not irrigated: not needed,63.6
+irrigation,Table 26,Rwanda,Not irrigated: cannot afford,5.3
+irrigation,Table 26,Rwanda,Not irrigated: no water available,25.5
+weather_source,Table 29,Rwanda,Government officials,11.3
+weather_source,Table 29,Rwanda,Government extension workers,3.4
+weather_source,Table 29,Rwanda,NGO / company,2.1
+weather_source,Table 29,Rwanda,Farmer field school,2.5
+weather_source,Table 29,Rwanda,Farmer / livestock promoters,4.8
+weather_source,Table 29,Rwanda,Media,52.4
+weather_source,Table 29,Rwanda,Telephone message,0.9
+weather_source,Table 29,Rwanda,Meetings / community work,16.1
+weather_source,Table 29,Rwanda,Friend or family,5.3
+weather_source,Table 29,Rwanda,School,0.7
+weather_source,Table 29,Rwanda,Suppliers,0.7

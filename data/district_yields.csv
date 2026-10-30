@@ -1,0 +1,150 @@
+district,crop,median_yield_kg_ha,n_records
+Bugesera,Bush bean,723.0,446
+Bugesera,Cassava,9396.0,133
+Bugesera,Climbing bean,1386.0,10
+Bugesera,Maize,1423.0,404
+Bugesera,Sweet potato,5740.0,117
+Burera,Bush bean,796.0,44
+Burera,Climbing bean,1083.0,389
+Burera,Maize,1528.0,319
+Burera,Sweet potato,7531.0,182
+Gakenke,Bush bean,566.0,59
+Gakenke,Cassava,9587.0,98
+Gakenke,Climbing bean,893.0,567
+Gakenke,Maize,1486.0,402
+Gakenke,Sweet potato,8507.0,475
+Gasabo,Bush bean,630.0,72
+Gasabo,Cassava,7566.0,28
+Gasabo,Climbing bean,924.0,20
+Gasabo,Maize,1390.0,67
+Gasabo,Sweet potato,5128.0,45
+Gatsibo,Bush bean,720.0,451
+Gatsibo,Cassava,17899.0,76
+Gatsibo,Climbing bean,855.0,43
+Gatsibo,Maize,1634.0,391
+Gatsibo,Sweet potato,7358.0,91
+Gicumbi,Bush bean,630.0,141
+Gicumbi,Cassava,6179.0,56
+Gicumbi,Climbing bean,803.0,599
+Gicumbi,Maize,953.0,389
+Gicumbi,Sweet potato,7036.0,381
+Gisagara,Bush bean,726.0,742
+Gisagara,Cassava,10185.0,191
+Gisagara,Climbing bean,755.0,166
+Gisagara,Maize,1336.0,520
+Gisagara,Sweet potato,5064.0,199
+Huye,Bush bean,769.0,334
+Huye,Cassava,3559.0,105
+Huye,Climbing bean,1060.0,279
+Huye,Maize,1402.0,352
+Huye,Sweet potato,6649.0,213
+Kamonyi,Bush bean,528.0,448
+Kamonyi,Cassava,4146.0,211
+Kamonyi,Climbing bean,612.0,122
+Kamonyi,Maize,1314.0,342
+Kamonyi,Sweet potato,5728.0,226
+Karongi,Bush bean,613.0,76
+Karongi,Cassava,3796.0,95
+Karongi,Climbing bean,696.0,398
+Karongi,Maize,1019.0,274
+Karongi,Sweet potato,3908.0,324
+Kayonza,Bush bean,547.0,384
+Kayonza,Cassava,6226.0,90
+Kayonza,Climbing bean,493.0,16
+Kayonza,Maize,1314.0,356
+Kayonza,Sweet potato,3954.0,50
+Kicukiro,Bush bean,1014.0,18
+Kicukiro,Cassava,9365.0,3
+Kicukiro,Climbing bean,704.0,1
+Kicukiro,Maize,1197.0,15
+Kicukiro,Sweet potato,7881.0,5
+Kirehe,Bush bean,730.0,429
+Kirehe,Cassava,8226.0,53
+Kirehe,Climbing bean,845.0,80
+Kirehe,Maize,1933.0,397
+Kirehe,Sweet potato,8253.0,71
+Muhanga,Bush bean,600.0,196
+Muhanga,Cassava,4250.0,183
+Muhanga,Climbing bean,795.0,307
+Muhanga,Maize,1362.0,182
+Muhanga,Sweet potato,7902.0,476
+Musanze,Bush bean,1050.0,23
+Musanze,Cassava,10236.0,11
+Musanze,Climbing bean,1010.0,347
+Musanze,Maize,1319.0,259
+Musanze,Sweet potato,7623.0,199
+Ngoma,Bush bean,594.0,530
+Ngoma,Cassava,12392.0,141
+Ngoma,Climbing bean,754.0,42
+Ngoma,Maize,1486.0,351
+Ngoma,Sweet potato,5539.0,102
+Ngororero,Bush bean,340.0,49
+Ngororero,Cassava,5547.0,75
+Ngororero,Climbing bean,826.0,443
+Ngororero,Maize,860.0,314
+Ngororero,Sweet potato,5697.0,409
+Nyabihu,Bush bean,820.0,6
+Nyabihu,Cassava,5270.0,5
+Nyabihu,Climbing bean,861.0,197
+Nyabihu,Maize,834.0,131
+Nyabihu,Sweet potato,5326.0,59
+Nyagatare,Bush bean,797.0,435
+Nyagatare,Cassava,10188.0,23
+Nyagatare,Climbing bean,891.0,51
+Nyagatare,Maize,1983.0,475
+Nyagatare,Sweet potato,6860.0,87
+Nyamagabe,Bush bean,472.0,121
+Nyamagabe,Cassava,3254.0,62
+Nyamagabe,Climbing bean,613.0,439
+Nyamagabe,Maize,766.0,269
+Nyamagabe,Sweet potato,4725.0,346
+Nyamasheke,Bush bean,791.0,100
+Nyamasheke,Cassava,6559.0,273
+Nyamasheke,Climbing bean,887.0,384
+Nyamasheke,Maize,1838.0,264
+Nyamasheke,Sweet potato,6762.0,296
+Nyanza,Bush bean,696.0,516
+Nyanza,Cassava,7576.0,136
+Nyanza,Climbing bean,547.0,96
+Nyanza,Maize,1513.0,395
+Nyanza,Sweet potato,7115.0,214
+Nyarugenge,Bush bean,763.0,39
+Nyarugenge,Cassava,3610.0,23
+Nyarugenge,Climbing bean,922.0,11
+Nyarugenge,Maize,672.0,22
+Nyarugenge,Sweet potato,4057.0,9
+Nyaruguru,Bush bean,747.0,97
+Nyaruguru,Cassava,6432.0,133
+Nyaruguru,Climbing bean,851.0,442
+Nyaruguru,Maize,1056.0,187
+Nyaruguru,Sweet potato,8300.0,531
+Rubavu,Bush bean,1019.0,21
+Rubavu,Cassava,1966.0,7
+Rubavu,Climbing bean,818.0,137
+Rubavu,Maize,1251.0,60
+Rubavu,Sweet potato,6640.0,51
+Ruhango,Bush bean,578.0,359
+Ruhango,Cassava,4384.0,132
+Ruhango,Climbing bean,527.0,141
+Ruhango,Maize,1537.0,229
+Ruhango,Sweet potato,6625.0,217
+Rulindo,Bush bean,677.0,282
+Rulindo,Cassava,5261.0,131
+Rulindo,Climbing bean,869.0,246
+Rulindo,Maize,1336.0,293
+Rulindo,Sweet potato,8325.0,290
+Rusizi,Bush bean,719.0,397
+Rusizi,Cassava,8225.0,298
+Rusizi,Climbing bean,856.0,133
+Rusizi,Maize,1581.0,271
+Rusizi,Sweet potato,4979.0,108
+Rutsiro,Bush bean,541.0,16
+Rutsiro,Cassava,6425.0,95
+Rutsiro,Climbing bean,707.0,261
+Rutsiro,Maize,1089.0,227
+Rutsiro,Sweet potato,4557.0,179
+Rwamagana,Bush bean,795.0,254
+Rwamagana,Cassava,4293.0,57
+Rwamagana,Climbing bean,1279.0,5
+Rwamagana,Maize,1474.0,188
+Rwamagana,Sweet potato,4297.0,54
