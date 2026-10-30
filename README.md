@@ -6,7 +6,7 @@ officers. Built for the NISR 2026 Big Data Hackathon, Track 1: Agricultural Prod
 
 > **A risk signal, not a forecast.** One survey year cannot support a trained forecasting model, and the app says so.
 
-**Live app:** `<PASTE STREAMLIT LINK HERE>` (public, no login needed) · **Demo video:** [`demo/demo.webm`](demo/) (under 3 minutes) · **Full documentation:** [`DOCUMENTATION_EN.md`](DOCUMENTATION_EN.md) and the Kinyarwanda PDF
+**Live app:** `https://intumwa.streamlit.app/` (public, no login needed) · **Demo video:** [`demo/video.webm.mp4`](demo/) (under 3 minutes) · **Full documentation:** [`DOCUMENTATION_EN.md`](DOCUMENTATION_EN.md) and the Kinyarwanda PDF
 
 ## What it communicates and how to use it
 Intumwa shows, for each of Rwanda's 30 districts, how risky a dry spell or heavy rain is for farmers, *because* of how vulnerable they are (NISR survey data). Users can:
